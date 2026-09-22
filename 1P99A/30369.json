@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 内存 pprof 定位内存泄漏
+简介：ICMP 放通网络丢包问题修复，放开 ICMP 协议，解决 MTU 问题导致网络丢包，修复网络不稳定现象。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/26979580.html
+
+原标题：golang http grpc 全链路埋点示例
+简介：无用对象回收抑制内存上涨，优化对象生命周期，及时释放不再使用对象，抑制内存持续不断增长。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/63796139.html
+
+原标题：golang kafka 消费者偏移量管理
+简介：多版本开发环境共存配置，实现同一工具多版本并存，快速切换不同版本，适配不同项目对版本的差异化需求。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/15579681.html
+
+原标题：架构笔记：多环境隔离架构开发测试生产隔离
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/18242470.html
+
+原标题：Issue：本地可以访问，容器内部网络不通
+简介：golang jwt 令牌刷新逻辑实现，实现 JWT 双令牌机制，access 短期有效 refresh 刷新令牌，实现无感续期登录。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/20400525.html
+
+原标题：golang mysql 防止 sql 注入实践
+简介：golang go 并发模式 fan‑out fan‑in，fanout 分发任务 fanin 汇总结果，多协程并发处理任务。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/47468361.html
+
+原标题：golang 系统设计分表 id 生成策略对比
+简介：golang fasthttp 高性能 http 库使用，fasthttp 高性能 http 实现，适合超高 QPS 场景，对比 net/http 差异。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/63812928.html
+
+原标题：新手教程：Git撤销错误提交的几种常用方式
+简介：golang 开发环境快速搭建指南，快速完成 Golang 开发环境配置，工具链安装，环境变量设置，准备开发。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/84734029.html
+
+原标题：定时任务周期调度 demo 开发
+简介：golang consul 服务发现简单示例，对接 Consul 实现服务注册发现，微服务实例自动感知。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/41506906.html
+
+原标题：golang 系统设计雪花算法 id 原理剖析
+简介：golang 配置文件热加载监听变更，监听配置文件改动，自动重新加载配置，业务即时生效无需重启。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/48097199.html
+
+原标题：golang 系统设计滑动窗口限流代码示例
+简介：golang k8s secret 敏感配置加载，加载 k8s secret 存储密钥密码，敏感信息不存放配置文件。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/23634436.html
+
+原标题：正则表达式优化 CPU 占满问题
+简介：请求工具封装统一异常处理，对网络请求做二次封装，统一捕获各类请求异常，标准化接口返回格式。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/07025261.html
+
+原标题：优化实践：异步改造同步接口提升吞吐能力
+简介：前端工程化 webpack 打包优化，针对 webpack 项目做打包调优，分包、压缩、Tree‑Shaking，缩减包体积。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/60795702.html
+
+原标题：业务幂等键设计防重复逻辑
+简介：golang 优雅关闭 grpc 服务示例，gRPC 服务优雅关闭，等待现有请求处理完成再停止服务。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/65906934.html
+
+原标题：golang k8s pod 优雅关闭流程讲解
+简介：程序预加载加快服务启动速度，把高频使用资源提前预加载，减少请求阶段初始化，加快服务启动。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/52627068.html
+
+原标题：实践：消息队列死信处理业务落地实践
+简介：golang go mod graph 可视化依赖图，可视化 go 依赖关系，直观看到包之间依赖，定位冲突。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/59203028.html
+
+原标题：golang 系统设计链路追踪架构简单讲解
+简介：golang go 并发模式 fan‑out fan‑in，fanout 分发任务 fanin 汇总结果，多协程并发处理任务。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85949270.html
+
+原标题：坑点：依赖缓存未更新，旧代码持续运行
+简介：golang 命令行彩色输出终端，终端彩色文字输出，进度条交互，优化命令行工具用户体验。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/30550625.html
+
+原标题：golang 系统设计接口频率限制业务落地
+简介：SourceMap 生成线上报错定位，项目打包生成 SourceMap 文件，线上报错可以还原源码，快速定位报错位置。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29351469.html
+
+原标题：vue pinia 状态管理实战教程
+简介：golang redis lua 脚本原子操作，使用 Lua 脚本实现原子逻辑，减少网络往返，保障多命令原子执行。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85278079.html
+
+原标题：排错：反向代理后获取真实IP全部变成内网IP
+简介：golang net/url 路径拼接处理，url.ParseRequestURI 处理请求 url，正确拼接 url 路径避免拼接错误。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/42693847.html
+
+原标题：部署实践：告警收敛避免告警风暴配置
+简介：golang time 时间比较 Before After Equal，时间比较不要直接减，使用内置方法判断时间先后。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/37179240.html
+
+原标题：DevOps：GitLabCI完整流水线配置示例
+简介：golang gin 路由分组权限管控，Gin 路由分组，不同分组绑定鉴权中间件，实现接口权限分组管控。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/30372472.html
+
+原标题：部署实践：容器优雅停机配置处理信号
+简介：CPU 亲和性配置负载均衡调度，配置进程 CPU 亲和，均衡利用多核 CPU，优化程序调度性能。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/63705917.html
+
+原标题：golang gin 静态资源访问配置
+简介：golang context.WithValue 传递元数据，WithValue 只传 traceId 鉴权元数据，不要传业务大对象。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/18138135.html
+
+原标题：HelloGitHubPages：部署你的第一个静态博客
+简介：MySQL 慢查询索引优化实战，抓取慢查询 SQL，分析执行计划，新增或者调整索引，提升 SQL 执行速度。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/18256247.html
+
+原标题：golang 系统设计开源 issue 处理回复沟通技巧
+简介：请求工具封装统一异常处理，对网络请求做二次封装，统一捕获各类请求异常，标准化接口返回格式。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/95250268.html
+
+原标题：golang 系统设计 issue 模板 bug 反馈模板
+简介：Git 代码冲突正确处理方式，讲解冲突产生场景，演示冲突文件修改，正确合并代码，防止代码丢失。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/58179502.html
+
+原标题：Performance：避免内存拷贝，大对象处理优化
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85855378.html
+
+原标题：golang 系统设计定时任务分片执行分布式思路
+简介：golang go work 多模块本地开发，go work 多模块本地同时开发，本地模块互相引用，无需推送仓库。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/30523847.html
+
+原标题：Performance：批量导入数据性能优化实践
+简介：数据库 utf8mb4 支持 emoji 存储，数据库字段设置 utf8mb4 字符集，完整支持 emoji 表情存储入库。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/42179393.html
+
+原标题：golang mysql json 字段查询使用
+简介：Nginx 静态代理负载均衡全套配置，一套 Nginx 配置示例，覆盖静态资源、反向代理、负载均衡场景。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/41624646.html
+
+原标题：实战：对象存储断点续传下载实践
+简介：golang go‑zero rpc 微服务开发，go‑zero 定义 proto，生成 rpc 服务代码，实现微服务调用。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/53695028.html
+
+原标题：golang 开发环境快速搭建指南
+简介：golang consul 服务发现简单示例，对接 Consul 实现服务注册发现，微服务实例自动感知。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29483694.html
+
+原标题：项目实践：Docker多环境镜像构建策略实践
+简介：golang ioutil 已废弃替换方案，ioutil 废弃之后替换为 os io 包函数，更新旧项目代码。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/95071462.html
+
+原标题：golang 系统设计网关 websocket 转发配置要点
+简介：golang sync.Once 只执行一次，sync.Once 做单例初始化，保证代码只执行一次，并发安全。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/30474735.html
+
+原标题：golang http 服务性能优化调参
+简介：hosts 配置本地回环访问修复，修改 hosts 配置，修复 127.0.0.1 解析异常，本地服务访问失败问题。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29252584.html
+
+原标题：golang 系统设计 graphql 接口优缺点梳理
+简介：golang go 项目安全检查漏洞扫描，扫描 go 项目依赖漏洞，代码安全审计，规避安全风险。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/07139152.html
+
+原标题：HelloCI：理解持续集成基础工作流程
+简介：golang 日志 zap 结构化日志实践，接入 Zap 结构化日志库，打印结构化日志，方便日志检索解析。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/76907879.html
+
+原标题：golang 系统设计死信队列 dlq 业务落地完整流程
+简介：磁盘占满服务不可用清理方案，定位磁盘占用大文件，清理日志、缓存文件，恢复磁盘可用空间。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/36794455.html
+
+
+二、踩坑排错｜Troubleshooting
+原标题：CI 持续集成自动构建流程
+简介：golang go http 安全头配置实践，设置 http 安全响应头，防范 XSS、点击劫持，提升 web 服务安全性。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/09342874.html
+
+原标题：golang 系统设计限流算法原理代码实现
+简介：golang 系统 IO 阻塞 goroutine 场景，理解系统调用阻塞 M，P 会调度其他 M，掌握 go 调度行为。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/32596778.html
+
+原标题：golang 系统设计 http 接口基准测试实操示例
+简介：操作系统内核版本适配服务，针对服务运行要求，适配操作系统内核版本，规避内核兼容 bug。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/55946846.html
+
+原标题：golang redis hyperloglog 基数统计
+简介：全局本地依赖隔离冲突规避，区分全局依赖与项目本地依赖，隔离环境，防止全局包干扰项目运行。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/30078180.html
+
+原标题：运维笔记：服务器日志轮转logrotate配置
+简介：golang json number 数字不转 float64，使用 json.Number 保留原始数字字符串，防止大数字精度丢失。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85816947.html
+
+原标题：快速入门ORM，实现简单数据库增删改查
+简介：golang go 种子初始化 rand 随机，rand 初始化种子，不初始化会固定序列，理解随机数种子行为。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/03149036.html
+
+原标题：文件描述符优化进程卡死修复
+简介：golang e2e 端到端测试 go 接口，编写 e2e 测试，完整模拟用户请求，校验整套业务链路正确性。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/07078139.html
+
+原标题：安全实践：敏感信息加密存储传输完整方案
+简介：nodejs 中间件模式原理剖析，拆解 Node 中间件设计模式，理解请求逐层处理流转的底层原理。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/96371362.html
+
+原标题：golang 系统设计布隆过滤器拦截不存在 key
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/71401462.html
+
+原标题：golang 系统设计 docker compose 本地开发环境搭建
+简介：nodejs 全局异常捕获进程防护，捕获未捕获异常与 Promise 拒绝，尽量保护进程不因为异常直接退出。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/70707139.html
+
+原标题：服务健康检查告警监控体系
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/96372403.html
+
+原标题：性能笔记：数据库表字段设计影响查询性能
+简介：GC 垃圾回收优化降低 CPU 占用，调整 GC 参数，优化对象创建销毁，降低垃圾回收带来 CPU 开销。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/96179170.html
+
+原标题：安全笔记：JWT安全风险，签名泄露过期控制
+简介：golang testing.TB Helper 标记辅助函数，t.Helper 标记辅助函数，报错打印真实调用位置。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/97251414.html
+
+原标题：架构笔记：数据库读写分离架构数据不一致应对
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29361435.html
+
+原标题：性能笔记：线程池参数调优任务队列策略
+简介：golang go 爬虫请求速率控制，爬虫限频、代理轮换，设置 UA，防止爬虫被目标站点封禁 IP。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/62683683.html
+
+原标题：golang 系统设计大表结构变更不停机方案
+简介：CDN 缓存刷新获取最新静态资源，调用 CDN 刷新接口，清除节点旧缓存，用户访问到更新后的静态文件。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/09444132.html
+
+原标题：AI实践：大模型生成测试用例实践与校验
+简介：express 中间件开发业务实践，开发 Express 自定义中间件，拦截请求，实现鉴权、日志记录等通用逻辑。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/74613580.html
+
+原标题：Security：Web常见安全漏洞原理与修复清单
+简介：golang 协程 panic 捕获防止崩溃，协程内部捕获 panic，防止单个协程恐慌造成整个 Go 进程崩溃。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85681025.html
+
+原标题：Debug：表单提交特殊字符造成接口解析失败
+简介：消息队列重复消费业务处理，实现消息消费幂等，处理重复投递消息，保证多次消费业务结果一致。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/71546812.html
+
+原标题：golang k8s cronjob 定时任务配置
+简介：从零编写简易 CLI 命令行工具，通过实战案例实现基础命令交互，理解命令行程序执行逻辑，产出可运行小工具。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85925036.html
+
+原标题：golang 系统设计第三方接口 mock 单元测试
+简介：内网 DNS 不稳定随机报错排查，定位内网 DNS 抖动问题，配置备选 DNS，解决偶现域名解析失败。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/63412703.html
+
+原标题：数据库分表路由写入分片修正
+简介：golang cgo 性能开销避坑指南，cgo 调用开销，减少频繁 cgo 调用，规避 cgo 带来内存泄漏风险。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29313918.html
+
+原标题：golang 系统设计 docker compose 本地开发环境搭建
+简介：golang 消息队列 kafka 消费开发，Go 开发 Kafka 消费程序，消费消息执行业务，理解 Kafka 消费逻辑。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/51683647.html
+
+原标题：大事务拆分防止连接池耗尽
+简介：代码模块化组件化拆分思路，讲解代码拆分原则，将大业务拆分为独立模块组件，提升代码复用与维护能力。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29302803.html
+
+原标题：Architecture：事件溯源架构模式适用业务场景
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/16967958.html
+
+原标题：golang 系统设计缓存预热缓存降级实现
+简介：golang go‑zero 中间件鉴权限流，go‑zero 自定义中间件，实现鉴权、限流、日志打印通用能力。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/93837370.html
+
+原标题：golang mysql 字符集排序规则设置
+简介：golang 错误处理最佳实践汇总，Go 错误处理规范，包装错误，堆栈携带，拒绝简单忽略错误。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/25390695.html
+
+原标题：golang 系统设计代码评审高效沟通原则思路
+简介：golang 内存 pprof 定位内存泄漏，pprof 分析内存快照，定位内存泄露对象，解决 Go 程序内存持续上涨。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/08261580.html
+
+原标题：线程池拒绝策略任务丢失防护
+简介：golang go 应用内存使用优化手段，减少对象分配，复用对象，降低 GC 压力，减少 GC 停顿时间。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85367169.html
+
+原标题：golang 系统设计消息重试次数间隔策略设置
+简介：Git 代码冲突正确处理方式，讲解冲突产生场景，演示冲突文件修改，正确合并代码，防止代码丢失。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/74849274.html
+
+原标题：Debug：长连接未设置心跳，连接僵死不回收
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/64958069.html
+
+原标题：Hands‑on：编写自定义Git钩子实现代码提交校验
+简介：项目语义化版本号规范管理，遵循语义化版本规范管理项目版本，明确主次版本变更含义。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/91914058.html
+
+原标题：golang 系统设计混沌测试故障注入简单示例
+简介：golang 僵尸进程处理 go 程序，正确等待子进程退出，避免产生僵尸进程，占用系统进程表。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/38695706.html
+
+原标题：Cookie 跨环境登录配置调整
+简介：golang 数据库 ORM 框架选型对比，gorm xorm sqlx 对比各 ORM 优缺点，根据业务场景选型。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/52701803.html
+
+原标题：Issue：日志疯狂打日志快速占满磁盘空间
+简介：日志驱动异常日志不输出修复，排查日志驱动配置，修复日志写入配置，恢复程序正常日志输出。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/64815735.html
+
+原标题：golang 系统设计第三方接口调用封装思路
+简介：后端大文件分片上传接口开发，开发后端分片上传接口，接收分片，合并分片完成大文件存储。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/30460362.html
+
+原标题：golang 系统设计消息队列解耦削峰
+简介：golang 配置热更新不重启服务，实现配置热加载，监听配置变更，更新内存配置，无需重启服务实例。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29583624.html
+
+原标题：文件分片上传断点续传功能
+简介：接口幂等性防重复请求实现，实现接口幂等逻辑，避免重复提交请求产生多条脏数据，保障业务数据安全。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/04746368.html
+
+原标题：golang mysql 存储过程简单使用
+简介：golang http client Transport 参数调优，Transport 最大连接空闲连接，TLS 配置，http 客户端调优。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/29250363.html
+
+原标题：golang es 索引生命周期管理思路
+简介：golang go 零停机升级实践要点，socket 继承，流量无损，旧连接处理完毕后旧进程退出。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/74957369.html
+
+三、实战开发｜Practice
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：Mock 接口服务快速搭建实操，搭建模拟后端接口，自定义返回数据、延迟响应，前端开发阶段无需依赖真实后端服务。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/18968472.html
+
+原标题：golang 系统设计错误码体系完整设计
+简介：golang jaeger 链路追踪部署对接，jaeger 接收 opentelemetry 链路数据，可视化完整调用链路。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/63768171.html
+
+原标题：新手教程：Gittag版本标签打标签实操
+简介：golang kitex 字节微服务框架入门，kitex 开发 rpc 微服务，代码生成，服务注册发现完整流程。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/25797687.html
+
+原标题：Practice：实现异步回调处理通用组件封装
+简介：CDN 缓存刷新获取最新静态资源，调用 CDN 刷新接口，清除节点旧缓存，用户访问到更新后的静态文件。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/54717908.html
+
+原标题：开发复盘：搭建文件上传服务支持分片断点续传
+简介：git stash 代码暂存切换分支，使用 stash 暂存未提交代码，切换其他分支处理紧急任务，再恢复原有工作进度。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/71691546.html
+
+原标题：golang cpu pprof 性能分析实操
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/52684693.html
+
+原标题：golang kafka 消费者偏移量管理
+简介：golang go 容器 heap 堆实现优先队列，实现 heap 接口，构建优先队列，任务优先级调度。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/07250341.html
+
+原标题：踩坑记录：端口被占用导致服务启动失败
+简介：golang 日志按日期切割实现方案，实现日志文件按天切割，自动归档旧日志，防止单个日志文件过大。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/60479265.html
+
+原标题：golang 系统设计短链接服务实现思路
+简介：golang go 项目安全检查漏洞扫描，扫描 go 项目依赖漏洞，代码安全审计，规避安全风险。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/93702581.html
+
+原标题：端口占用访问失败排查方案
+简介：golang influxdb 时序数据库读写操作，influxdb 存储时序指标，业务指标监控数据存取。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/26015803.html
+
+原标题：效率笔记：Git高级命令日常开发高频使用汇总
+简介：多版本开发环境共存配置，实现同一工具多版本并存，快速切换不同版本，适配不同项目对版本的差异化需求。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/49288103.html
+
+原标题：快速入门GraphQL基础查询语法示例
+简介：golang http cookie jar 会话处理，客户端 cookie jar 自动管理 cookie，处理登录态会话。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/26924709.html
+
+原标题：调优方案：MySQL缓冲池参数性能调优实践
+简介：golang pdf 生成 go 服务端生成 pdf，服务端动态生成 pdf 报表文件，直接输出下载给到前端。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/71580361.html
+
+原标题：快速入门环境区分：开发、测试、生产环境
+简介：安全组端口开放网络访问，调整服务器安全组规则，开放业务需要端口，恢复外部网络访问服务。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/04935922.html
+
+原标题：WebSocket 双向通信 demo 开发
+简介：代理 HTTPS 证书访问异常处理，配置代理根证书，解决代理环境 HTTPS 证书校验失败无法访问外网。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/05145892.html
+
+原标题：Practice：模拟数据库故障验证降级逻辑实践
+简介：golang io.Reader io.Writer 接口理解，io 读写接口，各类数据源统一抽象，适配 io 复制函数。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/82703378.html
+
+原标题：方案对比：缓存更新策略Cache‑Aside读写模式
+简介：golang json number 数字不转 float64，使用 json.Number 保留原始数字字符串，防止大数字精度丢失。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/82691458.html
+
+原标题：安全笔记：第三方SDK安全风险评估要点
+简介：Git 误提交撤销回退实操教程，演示多种撤销提交方式，区分已经推送远程和本地未提交场景，处理误提交代码。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/15934703.html
+
+原标题：集成测试业务流程编写示例
+简介：批量操作分批处理防止 OOM，大批量数据处理不一次性加载全部数据，分批循环处理，避免内存溢出。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/15935699.html
+
+原标题：golang k8s ingress 路由域名转发
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/48056925.html
+
+原标题：golang kafka 核心概念分区副本
+简介：空指针异常判空容错处理，讲解空指针产生场景，规范判空逻辑，增加容错，避免空指针直接造成程序崩溃。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/26679248.html
+
+原标题：golang mysql 联合索引最左匹配
+简介：pnpm 包管理工具实战避坑指南，使用 pnpm 管理项目依赖，梳理常见坑点，充分利用 pnpm 优势。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/73802336.html
+
+原标题：前后端会话登录状态持久化
+简介：golang 错误静默忽略风险规避，禁止空忽略错误，必须处理或者明确注释为什么忽略错误。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/71556902.html
+
+原标题：golang 系统设计消息幂等消费去重实现方案
+简介：golang aes cbc gcm 模式加密对比，AES‑CBC AES‑GCM 模式加密解密，理解两种模式差异选型。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/28823692.html
+
+原标题：快速上手简单信号处理脚本编写
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/27936689.html
+
+原标题：golang 文件上传下载接口开发
+简介：golang aes cbc gcm 模式加密对比，AES‑CBC AES‑GCM 模式加密解密，理解两种模式差异选型。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/62691470.html
+
+原标题：安全笔记：依赖包漏洞检测供应链安全
+简介：golang go 比较运算符可比较类型，哪些类型可以直接 == 比较，map slice 函数不可直接比较。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/18024704.html
+
+原标题：golang 系统设计服务优雅停机完整流程
+简介：golang go 调度器 GMP 模型通俗讲解，拆解 GMP 模型，理解 goroutine M P 调度原理，看懂调度状态。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/19145805.html
+
+原标题：Practice：实现IP黑名单拦截中间件实践
+简介：golang go 多版本管理 gvm 使用，gvm 管理多个 go sdk 版本，快速切换不同 go 版本做项目开发。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/42356925.html
+
+原标题：golang 文件上传下载接口开发
+简介：语义化版本依赖管理防错乱，项目依赖遵循语义版本约束，规避依赖自动升级引入不兼容变更。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/09125814.html
+
+原标题：前端错误监控上报系统搭建
+简介：golang k8s informer 机制原理理解，informer 监听 k8s 资源变更，本地缓存，减少 apiserver 压力。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/48580925.html
+
+原标题：架构笔记：高并发系统核心设计思路总结
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/26692692.html
+
+原标题：无用对象回收抑制内存上涨
+简介：golang kitex 中间件与元数据传递，kitex 自定义中间件，透传 traceId 鉴权元数据，统一处理请求。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/38031470.html
+
+原标题：踩坑记录：乐观锁版本号处理不当更新失败
+简介：浏览器缓存强制刷新方案，设置 HTTP 缓存头，处理浏览器缓存旧静态资源，让用户加载更新后的页面。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/57357143.html
+
+原标题：express 中间件开发业务实践
+简介：Git 误删提交代码恢复找回，使用 Git reflog 工具找回被误删除提交记录，恢复误删除代码。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/30279035.html
+
+原标题：方案设计：接口版本管理架构向前兼容策略
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/63578169.html
+
+原标题：调优方案：消息队列消费速度优化处理堆积
+简介：golang csv 百万级数据导入数据库，流式读取 csv 分批写入数据库，避免一次性加载全部数据。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/48267036.html
+
+原标题：Debug：HTTPS握手失败TLS版本兼容问题
+简介：nodejs 事件循环机制完整讲解，拆解 Node.js 事件循环各个阶段，理解异步回调执行顺序。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/84580364.html
+
+原标题：golang jaeger 链路追踪 go 接入
+简介：分布式任务调度集群原型开发，开发简易分布式调度原型，集群多节点运行，保证任务只执行一次。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/48124705.html
+
+原标题：方案设计：异步解耦业务架构边界识别
+简介：慢查询分析索引调优数据库实战，抓取慢查询，分析执行计划，优化索引，解决数据库慢查询拖慢业务。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/96813602.html
+
+四、架构设计｜Architecture
+原标题：golang 系统设计缓存过期时间设置原则梳理
+简介：WebSocket 双向通信 demo 开发，搭建简易 WebSocket 服务，实现客户端服务端双向消息推送，理解实时通信原理。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/60435903.html
+
+原标题：数据库事务 ACID 原理讲解
+简介：golang go 项目依赖冲突解决完整思路，定位冲突包，replace、exclude、升级降级解决版本冲突。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/26146025.html
+
+原标题：golang 系统设计分布式锁选型对比
+简介：golang go select 多路等待 channel，select 等待多个 channel，default 非阻塞，超时等待 channel。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/85802470.html
+
+原标题：golang pprof 线上采集性能数据
+简介：golang go 零停机升级实践要点，socket 继承，流量无损，旧连接处理完毕后旧进程退出。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/83702034.html
+
+原标题：golang jaeger 链路追踪 go 接入
+简介：golang 设置 net.Conn 读写超时，每次读写设置超时，防止连接永久阻塞挂起不返回。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/04801470.html
+
+原标题：架构复盘：网关层、应用层、数据库层层限流架构
+简介：静态站点自动部署发布方案，配置流水线，代码更新自动构建静态站点并且部署上线，简化发布。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/26946814.html
+
+原标题：service‑worker 离线缓存实践
+简介：前端 pdf 预览渲染方案对比，对比前端 PDF 预览库，分析性能、兼容性，给出业务选型参考。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/61157910.html
+
+原标题：golang 系统设计热点数据缓存处理
+简介：静态站点自动部署发布方案，配置流水线，代码更新自动构建静态站点并且部署上线，简化发布。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/71582547.html
+
+原标题：Hands‑on：简易反向代理中间件实现
+简介：SSH 密钥配置 GitHub 免密登录，分步生成配置 SSH 密钥，实现 GitHub 免密推送拉取，免去重复输入账号密码的麻烦。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/15004369.html
+
+原标题：Git 分支切换合并删除完整操作
+简介：预编译 SQL 防注入实现，使用预编译 SQL 方式，杜绝 SQL 注入风险，提升数据库访问层安全能力。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/82369025.html
+
+原标题：优化实践：内存池思想减少频繁分配释放
+简介：golang bytes.Buffer 字节缓冲区使用，bytes.Buffer 字节内存缓冲区，拼接字节，避免频繁内存分配。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/41449014.html
+
+原标题：Practice：实现接口签名、验签完整示例代码
+简介：nestjs 权限守卫鉴权实现方案，使用 Nest 守卫实现接口鉴权，角色权限控制，拦截未授权接口访问。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/93813648.html
+
+原标题：golang 系统设计测试环境预发环境生产环境隔离
+简介：golang redis pipeline 批量操作，使用 Redis Pipeline 批量执行多条命令，减少网络往返，提升批量操作性能。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/38257092.html
+
+原标题：开发复盘：分布式会话共享多种方案实践
+简介：多版本开发环境共存配置，实现同一工具多版本并存，快速切换不同版本，适配不同项目对版本的差异化需求。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/71671398.html
+
+原标题：golang 系统设计热点数据缓存处理
+简介：golang smtp 邮件发送完整示例，调用 smtp 服务发送文本与 html 格式邮件，实现邮件通知能力。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/74384817.html
+
+原标题：踩坑：分布式事务状态不一致数据两边不一致
+简介：golang slice 切片底层原理与坑点，切片扩容、截取、底层数组共享，规避切片修改互相影响数据。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/07168147.html
+
+原标题：死信队列处理消息阻塞业务
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/96125147.html
+
+原标题：Hands‑on：编写自定义Git钩子实现代码提交校验
+简介：跨平台换行符统一异常修复，统一代码文件换行符，解决不同操作系统换行符不一致带来脚本执行异常。
+ | 原文链接：http://www.blog.mizckb.cn/nuqpi/92906246.html
+
+?
